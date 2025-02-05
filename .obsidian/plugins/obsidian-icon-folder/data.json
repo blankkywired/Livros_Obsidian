@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFile",
+      "LiFolderClosed",
+      "LiAlbum"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Gêneros": "LiFolderClosed",
+  "Archives/Imagens": "LiFolderClosed",
+  "Archives/Imagens/Tags": "LiFolderClosed",
+  "Gêneros/Aprendizado/Ultra - Aprendizado": "LiAlbum",
+  "Gêneros/Aprendizado/Aprendendo a Aprender": "LiAlbum",
+  "Gêneros/Aprendizado": "LiFolderClosed",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Como se tornar um ultra aprendiz.md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Por que o ultra-aprendizado é importante.md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio I - Meta Aprendizagem ( Faça um mapa primeiro ).md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio II - Foco Afie sua faca.md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/SUMÁRIO.md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio IX - Experimentação - saia da zona de conforto.md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio IV - Repetição - ataque seu ponto fraco.md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio III - Prática direta - siga sempre em frente.md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio V - Recuperação - teste para aprender.md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio VI - Retorno - não se esquive dos golpes.md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio VII - Retenção - não encha um balde furado.md": "LiFile",
+  "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio VIII - Intuição - cave fundo antes de começar !.md": "LiFile"
+}

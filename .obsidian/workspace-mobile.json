@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "7363652403400bee",
+    "type": "split",
+    "children": [
+      {
+        "id": "78a349f8edb234e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db853dd565847aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio II - Foco Afie sua faca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Princípio II - Foco Afie sua faca"
+            },
+            "group": "e5321baa60c3ddf3"
+          }
+        ]
+      },
+      {
+        "id": "9287e67f18aff201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ab16b7b2c28e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio II - Foco Afie sua faca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Princípio II - Foco Afie sua faca"
+            },
+            "group": "e5321baa60c3ddf3"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e699edee6438d2f2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6fe3024b2a06951d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de arquivos"
+        }
+      },
+      {
+        "id": "1268067183f655eb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Ultra_Aprendizado",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Procurar"
+        }
+      },
+      {
+        "id": "ca52fef107066bd9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e1317243b106aa45",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "75f686beda762464",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1fcdadddc57d2fa0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio II - Foco Afie sua faca.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "082c6902f3ac99db",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Links de saída"
+        }
+      },
+      {
+        "id": "98f6559cb63e7824",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio II - Foco Afie sua faca.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Sumário"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "db853dd565847aa5",
+  "lastOpenFiles": [
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio IX - Experimentação - saia da zona de conforto.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/SUMÁRIO.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio VIII - Intuição - cave fundo antes de começar !.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio VII - Retenção - não encha um balde furado.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio VI - Retorno - não se esquive dos golpes.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio V - Recuperação - teste para aprender.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio IV - Repetição - ataque seu ponto fraco.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio III - Prática direta - siga sempre em frente.md",
+    "Gêneros/Aprendizado/Sem título",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/repetição.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Por que o ultra-aprendizado é importante.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Como se tornar um ultra aprendiz.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio II - Foco Afie sua faca.md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/Princípio I - Meta Aprendizagem ( Faça um mapa primeiro ).md",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/auto dirigida.md",
+    "Archives",
+    "Sem título.md",
+    "Archives/Imagens/Tags",
+    "Gêneros/Aprendizado/Aprendendo a Aprender",
+    "Imagens/Pasted image 20241031123523.png",
+    "Archives/Imagens",
+    "Gêneros/Aprendizado/Ultra - Aprendizado/2024-08-26.md",
+    "Gêneros/Aprendizado/Ultra-Aprendizado",
+    "Gêneros/Ciências",
+    "Gêneros/Aprendizado",
+    "Gêneros"
+  ]
+}

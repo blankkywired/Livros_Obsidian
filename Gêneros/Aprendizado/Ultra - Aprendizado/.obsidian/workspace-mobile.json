@@ -1,0 +1,512 @@
+{
+  "main": {
+    "id": "8923aad2569ae0e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3de714f448df5a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f92a6405d6f4146",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ultra - Aprendizado ( by Scott Young).md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            },
+            "group": "36f3b4e2ec845edf"
+          },
+          {
+            "id": "1a0a7c29a565097b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Por que o ultra-aprendizado é importante.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "edb708e112bc20f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5295d90e5101728d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Ultra - Aprendizado ( by Scott Young).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "pinned": true
+            },
+            "group": "36f3b4e2ec845edf"
+          }
+        ]
+      },
+      {
+        "id": "f144bba5ce08b2c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c49bb1627d37270",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Ultra - Aprendizado ( by Scott Young).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "pinned": true
+            },
+            "group": "36f3b4e2ec845edf"
+          }
+        ]
+      },
+      {
+        "id": "78035f7bac756467",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c44b069dd8abc82",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Ultra - Aprendizado ( by Scott Young).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "pinned": true
+            },
+            "group": "36f3b4e2ec845edf"
+          }
+        ]
+      },
+      {
+        "id": "d7cc440453f1f437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef0223897eaedb6b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Ultra - Aprendizado ( by Scott Young).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "pinned": true
+            },
+            "group": "36f3b4e2ec845edf"
+          }
+        ]
+      },
+      {
+        "id": "071ab591d018d723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceab8d16244fc9b5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Ultra - Aprendizado ( by Scott Young).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "pinned": true
+            },
+            "group": "36f3b4e2ec845edf"
+          }
+        ]
+      },
+      {
+        "id": "86707417fc737065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8d4f477a4bfdcc9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Ultra - Aprendizado ( by Scott Young).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "pinned": true
+            },
+            "group": "36f3b4e2ec845edf"
+          }
+        ]
+      },
+      {
+        "id": "e2a2d7eed046b8dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "582c37c32d7db77d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Ultra - Aprendizado ( by Scott Young).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "pinned": true
+            },
+            "group": "36f3b4e2ec845edf"
+          }
+        ]
+      },
+      {
+        "id": "2157ba68f6a02463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44676e55c8b42a89",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Ultra - Aprendizado ( by Scott Young).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "pinned": true
+            },
+            "group": "36f3b4e2ec845edf"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adb15d9f072b2489",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4730603f4366f830",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8be0571b45845f09",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": true,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b71744ad7ed29734",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3f1ae356fc649bf9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7a99c893b63fdffe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f14625548023531c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Por que o ultra-aprendizado é importante.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "65eb43b6102aaf1f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Por que o ultra-aprendizado é importante.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "de46a63664c31600",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Por que o ultra-aprendizado é importante.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4730603f4366f830",
+  "lastOpenFiles": [
+    "Ultra - Aprendizado ( by Scott Young).md",
+    "Como se tornar um ultra aprendiz.md",
+    "2024-08-26.md",
+    "Por que o ultra-aprendizado é importante.md",
+    "Princípio I - Meta Aprendizagem ( Faça um mapa primeiro ).md",
+    "repetição.md",
+    "auto dirigida.md"
+  ]
+}
