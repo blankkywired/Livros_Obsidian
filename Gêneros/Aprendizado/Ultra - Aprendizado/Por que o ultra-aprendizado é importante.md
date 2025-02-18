@@ -1,7 +1,7 @@
 ### O que é ultra-aprendizado?
 > "Estratégia de aquisição de habilidades e conhecimento que é tanto auto dirigida quanto intensiva"
 
-Significando em poucas palavras quê: O ultra aprendiz escolhe que caminho percorrer, sem necessidade de seguir a risca manuais pré determinados baseados em fatores que podem ser inviáveis para determinada situação. 
+Significando em poucas palavras que : O ultra aprendiz escolhe que caminho percorrer, sem necessidade de seguir a risca manuais pré determinados baseados em fatores que podem ser inviáveis para determinada situação. 
 
 Intenso pois o aprendiz age de maneira audaciosa, sem se preocupar em se arriscar logo no começo de um projeto, como por exemplo, querer aprender francês começando logo pela fala, mesmo que sabendo pouco sobre o idioma. 
 
