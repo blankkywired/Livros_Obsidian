@@ -24,3 +24,28 @@ Idéia de um estado de fluxo durante a prática de uma atividade como por exempl
 Hábitos ruins podem impedir, no começo, o fluxo de concentração, como o uso de gírias e jargões no estudo de um idioma, por exemplo.
 
 Em outras praticas de atividades de aprendizado o fluxo de atenção pode ser alcançado com mais facilidade. 
+
+### Intercalação de Atividades 
+A Intercalação de Atividades de trata da fragmentação de tarefas ou matérias a serem estudadas em intervalos de tempos menores, por exemplo, se um estudante possue 8 horas diarias de estudo, o indicado é separar esse tempo em sessões menores alternando entre outras tarefas. 
+
+**Prós:**
+- Melhor gerenciamento de múltiplos assuntos 
+- Flexibilidade de horários 
+- Carga de tarefas separadas por níveis de prioridade
+
+**Contra:**
+- Chance de sobrecarga de tarefas que demandam maior carga horária 
+- Não leva em consideração prazos curtos
+- Acúmulo excessivo de sessões de estudos pode prejudicar a retenção do aprendizado 
+
+#### Causas de distração 
+**O ambiente:** Se livrar de objetos de distração como televisão ou celular, redes sociais
+
+**A tarefa:**
+Algumas tarefas em particular possuem graus de dificuldades maiores e mais complexos como por exemplo leitura, ao invés de ver um vídeo sobre o mesmo tema. Se necessário, pode ser adotado medidas de práticas que facilitem a concentração da tarefa, como por exemplo fazer a anotação de conceitos complexos do material que está se estudando para evitar uma leitura superficial, por exemplo.
+
+Outro exemplo é fazer questões sobre um assunto de matemática, revisar ativamente um conjunto de vocábulos de um idioma. Se auto explicar um conteúdo que está estudando 
+
+
+
+
