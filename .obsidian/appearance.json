@@ -3,6 +3,6 @@
   "textFontFamily": "Times New Roman",
   "interfaceFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "",
+  "cssTheme": "obsidian_ia",
   "accentColor": "#000000"
 }
