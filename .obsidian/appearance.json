@@ -1,8 +1,8 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "textFontFamily": "Times New Roman",
   "interfaceFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "obsidian_ia",
+  "cssTheme": "Vanilla AMOLED",
   "accentColor": "#000000"
 }
